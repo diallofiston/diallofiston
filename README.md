@@ -34,7 +34,14 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=diallofiston&show_icons=true&theme=radical" alt="cydiam7's GitHub stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=diallofiston&theme=radical&hide_border=true" width="400"/>
+</p>
 ---
 
 #### Top Repositories
